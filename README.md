@@ -2,4 +2,4 @@ Motocross driver. Likes [KTM](https://www.ktm.com/). Likes everything PowerShell
 
 ### Sponsor
 
-If you like how I contribute to OSS projects, please become a sponsor [https://github.com/sponsors/johlju].
+If you like how I contribute to OSS projects, please [become a sponsor](https://github.com/sponsors/johlju).
